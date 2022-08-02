@@ -29,6 +29,8 @@ Technomore
 <img src="ss/4.png"></img>
   </kbd>
 </p>
+
+## check out the deployed project :https://task-backend-main.vercel.app/
 ## :fire: Features
 
 :white_check_mark: Own your content \
