@@ -11,26 +11,22 @@ Technomore
 </p>
 <p align="center"> 
   <kbd>
-<img src="1.png"></img>
+<img src="ss/1.png"></img>
   </kbd>
 </p>
 
 
 <p align="center"> 
   <kbd>
-<img src="2.png"></img>
+<img src="ss/2.png"></img>
   </kbd>
 </p>
 
-<p align="center"> 
-  <kbd>
-<img src="3.png"></img>
-  </kbd>
-</p>
+
 
 <p align="center"> 
   <kbd>
-<img src="4.png"></img>
+<img src="ss/4.png"></img>
   </kbd>
 </p>
 ## :fire: Features
