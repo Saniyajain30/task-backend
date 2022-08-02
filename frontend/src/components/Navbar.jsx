@@ -14,6 +14,9 @@ const Navbar = () => {
       <div className='container mx-auto flex justify-between items-center'>
         <div className='flex space-x-4 items-center'>
           <div className='logo'>Logo</div>
+          <Link to='/blogs/add' className='text-blue-600 mr-2'>
+            Add blog
+          </Link>
         </div>
         <nav className='flex items-center space-x-2'>
           <Link to='/contact' className='text-blue-600 mr-2'>
